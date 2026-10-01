@@ -13,59 +13,65 @@ SSDBM 2027, the 39th edition of the conference, will be hosted by Nanyang Techno
 
 ## Topics of Interest
 
-Topics of particular interest include, but are not limited to, the following, as they relate to scientific data management:
+Topics of interest include, but are not limited to, the following areas in scientific data management:
 
-### Scientific Applications, Workflows and Reproducibility
+### Scientific Applications, Workflows, and Reproducibility
 
 - Design, implementation, optimization, and reproducibility of scientific workflows
 - Platforms and tools for reproducible data science and scientific collaboration
 - Application case studies (e.g., astrophysics, climate, energy, sustainability, biomedicine)
 - Open data standards and cross-platform compatibility for scientific data
-- Cloud computing issues in large-scale data management
+- Cloud and hybrid computing issues in large-scale data management
 - System architectures for scientific data
 - HPC applications and scalability challenges in data-intensive scientific fields
-- Data ethics, bias in scientific data handling, and privacy in large-scale studies
-- Handling data errors, inconsistencies, and outliers in scientific datasets
+- Data ethics, bias, privacy, and responsible data use
+- Handling data errors, inconsistencies, and uncertainty in scientific datasets
 
 ### Data Modeling, Management, and Integration
 
 - FAIR data principles (Findable, Accessible, Interoperable, Reusable)
-- Data lifecycle and retention management, provenance data management
-- Data integration
-- Data storage and management architectures (e.g., distributed file systems, data lakes, high-performance storage)
+- Data lifecycle and retention management, provenance tracking
+- Data integration across heterogeneous sources
+- Data storage and management architectures (distributed file systems, object stores, data lakes, high-performance storage)
 - Protocols and frameworks for cross-domain data sharing and exchange
-- Modeling of scientific data
-- Schema evolution
+- Modeling of scientific data and schema evolution
 - Information retrieval and text mining
 - Indexing and querying scientific data, including spatial, temporal, and streaming data
 
 ### Big Data Processing and Performance Aspects
 
-- Big data processing frameworks for scientific data
-- Scalable architectures and distributed systems for managing large-scale datasets
-- Optimization techniques for high-efficiency data storage and retrieval
-- Innovations in data compression and encoding for enhanced performance
-- Efficient computational techniques for statistical data analysis and modeling
-- Methods for ensuring data quality, integrity, and consistency in big data environments
-- Smart city applications and services leveraging high-performance data solutions
+- Big data processing frameworks for scientific workloads
+- Scalable architectures and distributed systems for large-scale datasets
+- Optimization techniques for efficient data storage and retrieval
+- Innovations in data compression and encoding
+- Efficient computational techniques for statistical analysis and modeling
+- Methods for ensuring data quality, integrity, and consistency at scale
 
 ### Machine Learning, Artificial Intelligence, and Visualization
 
-- Database support of machine learning and AI
+- Database and system support for machine learning and AI
 - Data management for AI applications
 - Machine learning and AI for scientific data management
-- Visualization and exploration of large datasets
-- Security and privacy in scientific data management
-- Data storage and compression techniques for machine learning
+- Data pipelines for deep learning and large-scale training workloads
+- Visualization and interactive exploration of large datasets
+- Security, privacy, and trust in scientific data systems
 
 ### Streaming and Real-Time Data Processing
 
 - Stream data representation and management
-- Stream data analysis (e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction)
-- Dataflow and parallel processing for complex data workflows
-- Distributed systems and devices
+- Stream data analysis (summarization, pattern discovery, prediction)
+- Dataflow systems for complex and parallel workflows
+- Distributed systems and edge devices
 - Internet of Things (IoT) data analytics
-- Location-aware recommender systems
+- Location-aware and real-time recommendation systems
+
+### Emerging Directions in Scientific Data Systems
+
+- Cross-layer performance analysis and observability
+- Data-centric system co-design across compute, memory, storage, and network
+- Autonomous and self-optimizing data systems
+- Multi-modal data management and analytics
+- Digital twins and simulation-driven data pipelines
 
 ## Submission Guidelines
 

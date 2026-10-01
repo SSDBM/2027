@@ -12,7 +12,7 @@ layout: default
     style="width: 100%; height: 100%; object-fit: cover; display: block; max-width: none;"
   />
   <div style="position: absolute; inset: 0; background: rgba(0, 0, 0, 0.45);"></div>
-  <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; z-index: 1;">
+  <div style="position: absolute; inset: 0; display: flex; align-items: flex-end; justify-content: center; padding-bottom: 3rem; z-index: 1;">
     <div style="text-align: center; color: #fff; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6); padding: 0.75rem 1rem; display: flex; flex-direction: column; align-items: center; justify-content: center;">
       <p style="margin: 0 0.5rem 0.5rem; line-height: 1.35; color: #fff; font-size: 1.2em; font-weight: 700;">
         NTU@one-north, Singapore<br />
