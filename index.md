@@ -39,7 +39,7 @@ TBA<br>
 Jiong He, InnoBridge Pte Ltd<br>
 
 **Web & Publicity Chair**<br>
-TBA<br>
+Boyuan Zhang, University of Kentucky<br>
 
 **Steering Committee**<br>
 Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br>
