@@ -7,7 +7,7 @@ layout: default
 
 The **International Conference on Scalable Scientific Data Management 2027** aims to bring together domain experts, data management researchers, practitioners, and developers to present and exchange the latest research findings on concepts, tools, and techniques for scalable scientific data management. The conference program typically features a single track to foster active discussion, and includes invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
 
-SSDBM 2027, the 39th edition of the conference, will be hosted by Nanyang Technological University (NTU) at NTU@one-north, Singapore, from July 19 to July 21, 2027.
+SSDBM 2027, the 39th edition of the conference, will be hosted by Nanyang Technological University, Singapore, from July 19 to July 21, 2027.
 
 ## Topics of Interest
 
