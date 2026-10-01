@@ -5,7 +5,7 @@ layout: default
 
 # Conference Venue
 
-<div markdown="0" style="position: relative; height: 40vh; min-height: 220px; overflow: hidden; width: 100%; border-radius: 0.5rem;">
+<div markdown="0" style="position: relative; height: 32vh; min-height: 200px; max-height: 340px; overflow: hidden; width: 100%; border-radius: 0.5rem; margin-bottom: 1.5rem;">
   <img
     src="assets/images/ntu-one-north.jpg"
     alt="NTU@one-north"
