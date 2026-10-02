@@ -23,8 +23,8 @@ The poster draft and the abstract should be combined into a single PDF file for 
 Submission site: TBA
 
 ## Important Dates
-- Submission deadline: TBA
-- Notification: TBA
+- Submission deadline: April 26, 2027, 23:59 AoE (tentative)
+- Notification: May 17, 2027 (tentative)
 
 At least one author must register for the conference and present the poster in person.
 

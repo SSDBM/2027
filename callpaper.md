@@ -87,5 +87,5 @@ If your paper is selected, at least one author must register for the conference 
 ## Important Dates
 
 - Abstract submission: TBA
-- Submission deadline: TBA
-- Notification: TBA
+- Submission deadline: March 15, 2027, 23:59 AoE (tentative)
+- Notification: April 19, 2027 (tentative)

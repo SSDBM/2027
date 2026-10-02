@@ -19,7 +19,7 @@ Didem Unat, Koç University<br>
 Sarah Neuwirth, Johannes Gutenberg University Mainz<br>
 
 **Proceedings Chair**<br>
-TBA<br>
+Amit Samanta, University of Utah<br>
 
 **Local Arrangements & Finance Chair**<br>
 Jiong He, InnoBridge Pte Ltd<br>
