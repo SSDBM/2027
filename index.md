@@ -28,6 +28,7 @@ Youyou Lu, Tsinghua University<br>
 **Program Co-chairs**<br>
 Dingwen Tao, Chinese Academy of Sciences<br>
 Didem Unat, Koç University<br>
+Jean Luca Bez, Lawrence Berkeley National Lab<br>
 
 **Poster Chair**<br>
 Sarah Neuwirth, Johannes Gutenberg University Mainz<br>
